@@ -1,0 +1,30 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+
+# Android
+android/local.properties
+android/.gradle/
+android/captures/
+android/key.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and local artifacts
+*.log
+
+# Flutter generated
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
